@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "wchar.h": "c",
+        "1.C": "cpp",
+        "notas.C": "cpp",
+        "2.C": "cpp",
+        "3.C": "cpp",
+        "4.C": "cpp",
+        "5.C": "cpp",
+        "6.C": "cpp",
+        "7.C": "cpp",
+        "8.C": "cpp",
+        "9.C": "cpp",
+        "10.C": "cpp",
+        "11.C": "cpp",
+        "stdio.h": "c",
+        "ctype.h": "c"
+    }
+}
